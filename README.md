@@ -36,6 +36,7 @@
 ---  
 
 #### Для совместного решения задач:  
+
 > [01 Доска unidraw](https://unidraw.io/app/board/b827e0afc2830dd12cbd?allow_guest=true)  
 > [02 Доска VK](https://board.vk.com/?uid=2db1e9bb-bd7d-429a-920c-dc3c867be675)  
 
@@ -43,6 +44,7 @@
 
 #### Установить к себе на ноут (это позже, нескоро, когда потребуется):  
 
+> [Epic Pen - рисовать по экрану](https://disk.yandex.ru/d/C-_uMdw52uiQNw)  
 > [Кумир](https://www.niisi.ru/kumir/dl.htm)  
 > [Python](https://www.python.org/downloads/)  
 > [PascalABC](https://pascalabc.net/ssyilki-dlya-skachivaniya)  
